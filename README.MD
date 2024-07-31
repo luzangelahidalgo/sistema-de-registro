@@ -6,5 +6,5 @@
 
 Para ejecutar el sistems debes poner:
 
-```npm install react´´´
+``` npm install react ´´´
 
